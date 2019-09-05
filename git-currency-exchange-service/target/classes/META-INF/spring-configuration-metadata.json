@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "currency-exchange-service",
+      "type": "com.example.microservices.currencyexchangeservice.Configuration",
+      "sourceType": "com.example.microservices.currencyexchangeservice.Configuration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "currency-exchange-service.euro-to-inr-rate",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.microservices.currencyexchangeservice.Configuration",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
